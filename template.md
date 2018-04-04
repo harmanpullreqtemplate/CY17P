@@ -1,3 +1,5 @@
 This is a test for the pull-request-template
-[ ] works
-[ ] does not work
+[ ] works on Chrome
+[ ] does not work on Chrome
+[ ] works on Firefox
+[ ] does not work on Firefox
