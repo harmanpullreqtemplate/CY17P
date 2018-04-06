@@ -1,5 +1,9 @@
-This is a test for the pull-request-template
-[ ] works on Chrome
-[ ] does not work on Chrome
-[ ] works on Firefox
-[ ] does not work on Firefox
+CY17P pull-request-template
+*JIRA TICKET ID :
+ELVIS TICKET ID :
+*TRS ID         :
+*CRUCIBLE       :
+CONFLUENCE      :
+COMMENTS        :
+
+* mandatory
